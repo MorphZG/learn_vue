@@ -1,1 +1,1 @@
-continue at lesson 20, binding classes
+continue at: binding classes
